@@ -1,0 +1,80 @@
+body {
+    padding-top: 128px;
+}
+
+h1, h2, h3 {
+    color: #DE0B12;
+}
+
+h5 {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    margin-bottom: 0rem !important;
+}
+
+textarea {
+    resize: none;
+}
+
+.form-control:disabled {
+    color: #DE0B12;
+}
+
+.bg-retok {
+    background-color: #DE0B12;
+}
+
+.list-group-item-retok {    
+    background-color: #DE0B12;
+}
+
+.list-group-item-retok i {
+    font-size: 16pt;
+    color: white;
+}
+
+.text-muted {
+    color: white !important;
+}
+
+.carousel-control-prev-icon{
+    background-color: #DE0B12;
+    filter: none !important;
+}
+   
+.carousel-control-next-icon{
+    background-color: #DE0B12;
+    filter: none !important;
+}
+
+.carousel-caption {
+    color: #DE0B12 !important;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.btn-primary {
+    background-color: #DE0B12 !important;
+    border-color: #DE0B12 !important;
+}
+
+.card {
+    border-color: #DE0B12;
+}
+
+.sobre p {
+    margin: 0;
+    text-indent: 2rem;
+    text-align: justify;
+}
+
+@media (max-width: 991px) {
+    .card, .sobre {
+      margin-bottom: 12px;
+    }
+}
